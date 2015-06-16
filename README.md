@@ -1,2 +1,0 @@
-# DockerfileTest
-Test Dockerfile
